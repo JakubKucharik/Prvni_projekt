@@ -6,5 +6,5 @@ Pokud uživatel zadá písmeno nebo číslo mimo rozsah od 1 do 3, program uživ
 Po zvolení čísla textu program zobrazí statistiky týkající se textu.
 Program zobrazí o zvoleném textu počet slov, počet slov začínajících velkým písmenem, počet slov psaných velkými písmeny, počet slov psaných malými písmeny, počet čísel a sumu všech čísel v textu.
 Dále program zobrazuje četnost různých délek slov v textu.
-#--------------------------------------------------------------------------------------
+#--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Ve verzi 2 jsou opakující se bloky kódu zkráceny do jednoho, výběr textu je vyřešen While cyklem.
